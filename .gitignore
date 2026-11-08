@@ -1,0 +1,4 @@
+dist/
+Plugin/bin
+Plugin/obj
+.env

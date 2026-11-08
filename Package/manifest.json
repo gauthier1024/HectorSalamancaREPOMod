@@ -1,0 +1,9 @@
+{
+  "name": "HectorSalamanca",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/gauthier1024/HectorSalamancaREPOMod",
+  "description": "Adds Hector Salamanca as a selectable character in UmamusumeSemibots.",
+  "dependencies": [
+    "GoblinKingShmee-UmamusumeSemibots-2.2.0"
+  ]
+}
